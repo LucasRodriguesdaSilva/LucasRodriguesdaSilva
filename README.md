@@ -1,4 +1,6 @@
-### Olá! Me chamo Lucas 😀
+### Hello there! Me chamo Lucas 🙂
+
+##
 
 <div>
   <a href="https://beacons.ai/LucasRodriguesdaSilva"> 
