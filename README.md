@@ -10,8 +10,7 @@
 
 ##
   
-  ##### 📚 Graduando em Engenharia da Computação pela Universidade Federal do Ceará (UFC);
-  ##### 💛 Conhecimento em HTML, CSS, JavaScript, C, Python, Java e Laravel-PHP;
+  ##### 📚 Bacharel em Engenharia da Computação pela Universidade Federal do Ceará (UFC);
   ##### 😃 Apredendo sobre o mundo do full stack.
   
 ##
